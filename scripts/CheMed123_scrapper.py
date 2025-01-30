@@ -43,7 +43,7 @@ async def main():
         
         # List of channels to scrape
         channels = [
-            '@DoctorsET',  # Existing channel
+            '@CheMed123',  # Existing channel
                  # You can add more channels here
             
         ]
