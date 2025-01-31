@@ -1,0 +1,8 @@
+
+# creat and activate the vertual enviroment 
+python -m venv venv
+venv/Scripts/activate
+#install telethon
+pip install telethon
+#install python-dotenv
+pip install python-dotenv

@@ -1,4 +1,4 @@
-import telethon
+
 from telethon import TelegramClient
 import csv
 import os
