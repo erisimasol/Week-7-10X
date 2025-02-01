@@ -6,3 +6,5 @@ venv/Scripts/activate
 pip install telethon
 #install python-dotenv
 pip install python-dotenv
+import nltk
+from nltk.tokenize import word_tokenize
