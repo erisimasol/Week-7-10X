@@ -6,3 +6,8 @@ venv/Scripts/activate
 pip install telethon
 #install python-dotenv
 pip install python-dotenv
+!pip install pyspellchecker
+import nltk
+from nltk.tokenize import word_tokenize
+pip install mysql-connector-python
+pip install pymysql
