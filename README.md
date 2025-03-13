@@ -3,7 +3,7 @@
 
 ## Overview
 
-This document outlines the project for building a data warehouse to store data on Ethiopian medical businesses scraped from Telegram channels. The project involves creating a robust and scalable data pipeline with object detection capabilities using YOLO (You Only Look Once).
+This document outlines the project for building a data warehouse to store data on Ethiopian medical businesses scraped from Telegram channels. The project involves creating a robust and scalable data pipeline using YOLO (You Only Look Once) with object detection capabilities.
 
 ## Business Need
 
